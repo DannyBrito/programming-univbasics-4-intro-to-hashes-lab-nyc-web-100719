@@ -2,9 +2,10 @@ def new_hash
   # return an empty hash
   {}
 end
-  {item: "money",amount: 32}
+
 def my_hash
   # return a valid hash with any key/value pair of your choice
+    {item: "money",amount: 32}
 end
 
 def pioneer
